@@ -20,4 +20,4 @@
 ## Dashboard presentation.
 - I created and published the dashboard on Tableae Public under the name :**'HR Analytics Dashboard'**.
 
-- Here is a ![png format of the dashboard](HR Analytics dashboard.png)
+- Here is a ![png format of the dashboard!](HR Analytics dashboard.png)
