@@ -2,10 +2,10 @@
 ## Introduction
 - In this project, a cleaned and transformed dataset that entails a company's human resource records is presented.
 
-- My aim is to visualize and analyze the dataset using Tableau as the business tool and draw insights that will guide the company on how to reduce its attrition rate.
+- My aim is to visualize and analyze the dataset using Tableau as the business  intelligence tool and draw insights that will guide the company on how to reduce its attrition rate.
 
 ## Purpose of the project
-- To create a dashboard that contains visualizations that showcase the company's attrittion performance across diffrent;
+- To create a dashboard that contains visualizations that showcase the company's attrittion performance across different;
   
   a). Genders.
   
@@ -13,7 +13,7 @@
 
   c). Age-groups.
  
-  d). Education level.
+  d). Education levels.
 
 - In addittion, the dashboard ought to contain descriptive statistics about the human resource dataset.
 
@@ -30,11 +30,11 @@
 ## Insights from the dashboard
 - The insights drawn from this dashboard ought to guide the HR Manger and/or any concerned parties on the best policies to implement when hiring  new employees and the rightful procedures to operate the company's departments.This is so as to ensure that employee turn over is significantly reduced. 
 
-     **1**). An little over an **1/8** of the employees have **left the company** in this given time period.The HR manager could compare this attrittion rate with 
+     **1**). A little over an **1/8** of the employees have **left the company** in this given time period.The HR manager could compare this attrittion rate with 
              previous time period rates and according to his/her metrics **assess if this rate is standard or alarming**.
 
      **2**). In terms of department grouping,**more than a half of the employee turnover is from the R&D department**.This is most likely to be an out of the 
-              ordinary occurrence.The HR manager could look into the operations and leadership in this department in a bid to know the cause of this.
+              ordinary occurrence.The HR manager could look into the operation and leadership of this department in a bid to know the cause of this.
 
      **3**). **Male employees have a higher turn over rate as compared to their counterparts**,while the **employees that acquired education in  life sciences and 
                 medical fields top the attrittion list**.Employees between the **ages 25-44** have the **highest attrittion rate in terms of age grouping**.The HR 
